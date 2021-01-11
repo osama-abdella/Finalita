@@ -1,0 +1,18 @@
+Metadata-Version: 1.2
+Name: hola
+Version: 1.1.54
+Summary: This is the summary (or short description)
+Home-page: UNKNOWN
+Author: smd
+Author-email: "asdf,df" <aasimD@redf.com>
+Maintainer-email: trentm@gmail.com
+License: UNKNOWN
+Download-URL: http://www.ggogasd.fom
+Project-URL: sadsdsddfgsfgdf, https://www.goog.com
+Project-URL: safd, https://www.google.com
+Description: This is the long description, which can be in the following formats: text/plain, text/markdown, or text/x-rst
+Keywords: sample test blah
+Platform: linux_x86_32
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >2.9

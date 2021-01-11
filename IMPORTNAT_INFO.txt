@@ -1,0 +1,10 @@
+#The 5 projects written in cli(Command Line Interface) if you wanna change it to GUI(Graphical User Interface) You can Change it
+with with tkinter
+#The Username and passwd for the first and the second project are:
+	username = "osama"
+	passwd = "osama_elzero"
+#Run The Projects With Thier Arrangement So you can watch the develop of the code 
+############################
+#Run Every Project In It's Location , Cause There Are Imported Modules In The Current Repo Directory
+###########################
+#That's all it enjoy ^_^
